@@ -1,11 +1,11 @@
 {
     "zenodo": {
         "concept_doi": "3518486",
-        "version": "3824524"
+        "version": "4059787"
     },
     "private_files": {
         "archive_links": [
-            "https://zenodo.org/api/files/ba88b736-95bd-492a-be83-5f16d0f38ba5/data.zip"
+            "https://zenodo.org/api/files/b109eb90-ec6c-4c87-94ce-bb7c6950a0e8/data.zip"
         ],
         "files": []
     },
