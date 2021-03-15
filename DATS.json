@@ -31,10 +31,17 @@
         }
     ],
     "version": "1.0",
-    "privacy": "Registered Access",
+    "privacy": "registered",
     "isAbout": [
         {
-            "name": "adult human"
+            "identifier": {
+                "identifier": "9606",
+                "identifierSource":"https://www.ncbi.nlm.nih.gov/taxonomy/9606"
+            },
+            "name":"Homo sapiens"
+        },
+        {
+            "name":"adult"
         }
     ],
     "spatialCoverage": [
